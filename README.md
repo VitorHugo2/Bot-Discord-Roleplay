@@ -33,5 +33,5 @@
 
 
 ### Tecnologias usadas 💻
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=FFD43B&logoColor=3776AB&logo=python)](https://github.com/konaly/Tabuada)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=FFD43B&logoColor=3776AB&logo=python)](https://www.python.org/)
 
